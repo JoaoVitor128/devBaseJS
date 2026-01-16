@@ -149,6 +149,16 @@ const classDb = [
       href: "https://www.youtube.com/embed/r2DZon1F0iw?si=GLwuanenLSlrKxUl",
       id: 12,
     },
+    {
+      title: "Desestruturando Objetos",
+      href: "https://www.youtube.com/embed/sDAg1z9ZFdU?si=SXG0FL6k6zbWMN_Q",
+      id: 13
+    },
+    {
+      title: "for",
+      href: "https://www.youtube.com/embed/Vs1bCAc71Co?si=hYrz54OVQH-hnIGH",
+      id: 14
+    }
   ],
 ];
 
