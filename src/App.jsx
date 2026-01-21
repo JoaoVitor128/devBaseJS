@@ -10,7 +10,7 @@ function App() {
     <>
     <Nav/>
     <Outlet/>
-    <footer>VAGAS ABERTAS PARA A GUILDA • CURSO 100% GRATUITO • APRENDA HTML, CSS, JAVASCRIPT E PYTHON • VAGAS ABERTAS</footer>
+    <footer>VAGAS ABERTAS PARA A GUILDA • CURSO 100% GRATUITO • APRENDA JAVASCRIPT • VAGAS ABERTAS</footer>
     </>
   )
 }

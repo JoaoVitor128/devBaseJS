@@ -1,12 +1,13 @@
 .classPage{
     padding: 0 20px;
     z-index: 2;
-    background-color: #10161A;
+    background-color: var(--background);
     min-height: 100vh;
 
     display: flex;
     flex-direction: row;
-   padding-top: 90px;
+    padding-top: 139px;
+    padding-bottom: 20px;
 }
     
 .classPage .video{
@@ -18,7 +19,7 @@
 
 .info{
     margin:30px auto;
-    color: #1391f2;
+    color: var(--primary-color);
     text-align: center;
 }
 
@@ -32,7 +33,7 @@
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 15px;
-    color: #1870F2;
+    color: var(--second-color);
 }
 
 .noVideo{

@@ -12,7 +12,7 @@ const Home = () => {
         <div className="headerContent">
           <img src={jsImg} alt="" />
           <h1>Aprenda <span>Java Script</span> do ZERO ou aprimore seu conhecimento na área e alcance melhores vagas</h1>
-          <Link to="https://discord.gg/SrBuscKvyU"><button>Entre na Guilda</button></Link>
+          <Link to="https://discord.gg/KAWyEu7H"><button>Entre na Guilda</button></Link>
         </div>
       </header>
       <section>

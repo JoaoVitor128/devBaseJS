@@ -1,9 +1,9 @@
 footer{
-    background-color: #10161A;
-    color: #1870F2;
+    background-color: var(--background);
+    color: var(--second-color);
     font-weight: 900;
     text-align: center;
-    border-top: 2px solid #1391F2;
+    border-top: 2px solid var(--primary-color);
 }
 
 @media (width <= 853px) {

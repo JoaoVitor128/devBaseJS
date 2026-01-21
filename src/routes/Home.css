@@ -1,9 +1,9 @@
 .home {
   padding-top: 130px;
-  color: #1391f2;
+  color: var(--primary-color);
   font-weight: 900;
   overflow-x: hidden;
-  background-color: #10161a;
+  background-color: var(--background);
 }
 
 header,
@@ -12,13 +12,13 @@ section {
   width: 100vw;
   min-height: 60vh;
   overflow: hidden;
-  background-color: #10161a;
+  background-color: var(--background);
   padding: 20px 50px;
   text-align: center;
 }
 
 header {
-  border-bottom: #1391f2 2px solid;
+  border-bottom: var(--primary-color) 2px solid;
 }
 
 section {
@@ -31,28 +31,23 @@ header img {
   border-radius: 15px;
 }
 
-header h1 span {
-  color: #f7df1e;
-  font-weight: 900;
-  text-shadow: 5px 5px 0 #f7de1e48;
-  margin-right: 5px;
-  margin-bottom: 5px;
-}
-
 header button {
   margin-top: 50px;
-  box-shadow: #1391f2 0px 0px 10px 10px;
+  box-shadow: var(--primary-color) 0px 0px 10px 10px;
+  color: var(--second-color);
+  font-weight: bold;
+  font-size: 20px;
 }
 
 @media (width <= 768px) {
-   header h1{
+  header h1 {
     font-size: 26px;
     font-weight: 700;
-}
+  }
 }
 
 @media (width < 480px) {
-  button{
+  button {
     width: 50%;
   }
 }
