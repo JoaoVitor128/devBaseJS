@@ -1,26 +1,40 @@
-# DEV BASE
+# Begginer Programming
 
-A DevBase nasceu de uma verdade incômoda no mundo da tecnologia: o mercado está cheio de pessoas que sabem "copiar e colar", mas carente de profissionais que realmente entendem a arquitetura por trás do código.
+## 📌 Descrição
+O Beginner Programming é um projeto criado para ajudar iniciantes na programação, promovendo aprendizado colaborativo e troca de conhecimento.
+O que começou como um simples grupo de conversa evoluiu para uma comunidade, onde pessoas com diferentes níveis de experiência se ajudam a crescer.
+Embora ainda não sejamos uma comunidade grande, estamos em constante crescimento e desenvolvimento.
 
-Nós somos uma comunidade focada em quem quer ser monstro na programação. Nosso objetivo não é ensinar o caminho mais fácil, mas o caminho mais sólido.
+## 🛠️ Tecnologias
 
-## 📚 Nossos "Cursos" e Trilhas
-Na DevBase, a gente não acredita em fórmulas mágicas. Nossas trilhas de estudo são desenhadas para cobrir desde a fundação até o topo da pirâmide tecnológica:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- GIT
 
-Fundamentos Reais: Mergulhamos na Lógica de Programação, HTML5 semântico e CSS moderno.
 
-Engenharia de Software: Dominamos o JavaScript para criar interfaces dinâmicas e inteligentes.
+## 🚀 Features
 
-## 🤝 Nossa Comunidade
-A DevBase é mais que um repositório de links. É um ecossistema de colaboração.
+- Código organizado e de fácil manutenção
+- Layout focado em boa experiência do usuário (UX)
+- Estrutura escalável para novos projetos
+- Uso de boas práticas de JavaScript
+- Organização em pastas e arquivos
+- Padronização de nomes e funções
+- Design responsivo
+- Tipografia e cores organizadas
 
-Code Review: Aqui, um ajuda o outro a limpar o código. Analisamos cada tag e cada função, porque o detalhe é o que diferencia o amador do profissional.
+## 📷 Preview
 
-Mentalidade de Arquiteto: Incentivamos cada membro a pensar na estrutura antes de colocar a mão na massa.
+![Preview](./public/preview.png)
 
-Foco no Mercado: Tudo o que estudamos tem um porquê. Queremos que nossos membros sejam capazes de entregar freelas profissionais e ocupar as cadeiras de sênior nas maiores tech companies.
+## 🔗 Link
 
-## 🏗️ Nossa Filosofia
-### "Se a base é forte, o topo é infinito."
+https://begginerprogramming.netlify.app
 
-Não estamos aqui apenas para centralizar divs. Estamos aqui para entender a engenharia que move o mundo digital. Se você busca profundidade, rigor técnico e uma comunidade que te desafia a ser melhor a cada commit, você é DevBase.
+## 📂 Como rodar
+
+```bash
+npm run dev
+```
