@@ -168,6 +168,11 @@ const classDb = [
       title: "try e catch",
       href: "https://www.youtube.com/embed/cfuQ3TfFMk0?si=BMB9T9-TFt5lZBgp",
       id: 16
+    },
+    {
+      title: "SetTimeOut/SetInterval",
+      href: "https://www.youtube.com/embed/hvM15w0r5dM?si=jWQrlnJ9OmwQ5vGM",
+      id: 17
     }
   ],
 ];
