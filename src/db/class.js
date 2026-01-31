@@ -170,7 +170,7 @@ const classDb = [
       id: 16
     },
     {
-      title: "SetTimeOut/SetInterval",
+      title: "SetTimeOut SetInterval",
       href: "https://www.youtube.com/embed/hvM15w0r5dM?si=jWQrlnJ9OmwQ5vGM",
       id: 17
     }
